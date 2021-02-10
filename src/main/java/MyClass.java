@@ -1,11 +1,8 @@
 class MyClass{
 	
 	
-
-	public void method1(){
-		
-		
-	}
-	
-	
 }
+
+
+
+//sdfsdkjfnsdkjfsdkjfkj
